@@ -1,0 +1,29 @@
+h1{
+    background-color: yellow;
+}
+h2{
+   
+    color: rgb(252, 148, 30);
+}
+    span{
+        color: blueviolet;
+        font-style: oblique;
+        font-size: x-small;
+        font-weight: 100;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    p{
+        background-color: rgb(91, 207, 220);
+        color: rgb(245, 10, 217);
+        width: 100px;
+        height: 100px;
+        font-size: xx-small;
+      letter-spacing: 4px;
+      text-align: end;
+      text-transform: lowercase;
+        font-family: "Edu AU VIC WA NT Guides", cursive;
+        border-style: dashed;
+        border-width: 9px;
+        border-color: brown;
+        border-radius: 32px;
+    }
